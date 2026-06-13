@@ -1,3 +1,8 @@
+> [!WARNING]
+> **This repository is archived and no longer maintained.** It remains here for historical reference, but no further updates, issues, or pull requests will be actioned.
+
+---
+
 ## With this assignment, we're providing you the file structure necessary for you to repeat for the rest of the CSS assignments. Note: This does not apply to the Algorithm assignments.  
 #### The structure is always like this...
 - index.html
